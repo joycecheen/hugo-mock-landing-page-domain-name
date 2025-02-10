@@ -1,14 +1,19 @@
 .home {
-    --bd-purple: #4c0bce;
-    --bd-violet: #712cf9;
-    --bd-accent: #ffe484;
+    --bd-purple: #4e845b;
+    --bd-violet: #6e8e7b;
+    --bd-accent: #84a5ff;
     --bd-violet-rgb: 112.520718,44.062154,249.437846;
     --bd-accent-rgb: 255,228,132;
     --bd-pink-rgb: 214,51,132;
 
     .bd-masthead {
         padding: 3rem 0;
-        background-image: linear-gradient(180deg, rgba(var(--bs-body-bg-rgb), 0.01), rgba(var(--bs-body-bg-rgb), 1) 85%),radial-gradient(ellipse at top left, rgba(var(--bs-primary-rgb), 0.5), transparent 50%),radial-gradient(ellipse at top right, rgba(var(--bd-accent-rgb), 0.5), transparent 50%),radial-gradient(ellipse at center right, rgba(var(--bd-violet-rgb), 0.5), transparent 50%),radial-gradient(ellipse at center left, rgba(var(--bd-pink-rgb), 0.5), transparent 50%);
+        background-image: 
+            linear-gradient(180deg, rgba(255, 255, 255, 0.01), rgba(255, 255, 255, 1) 85%), /* soft white */
+            radial-gradient(ellipse at top left, rgba(0, 150, 136, 0.5), transparent 50%), /* green */
+            radial-gradient(ellipse at top right, rgba(255, 193, 7, 0.5), transparent 50%), /* yellow */
+            radial-gradient(ellipse at center right, rgba(33, 150, 243, 0.5), transparent 50%), /* blue */
+            radial-gradient(ellipse at center left, rgba(76, 175, 80, 0.5), transparent 50%); /* light green */
     }
 
     .btn-bd-primary {
@@ -18,19 +23,19 @@
         --bs-btn-border-color: var(--bd-violet);
         --bs-btn-border-radius: .5rem;
         --bs-btn-hover-color: var(--bs-white);
-        --bs-btn-hover-bg: #6528e0;
-        --bs-btn-hover-border-color: #6528e0;
+        --bs-btn-hover-bg: #aeceab;
+        --bs-btn-hover-border-color: #aeceab;
         --bs-btn-focus-shadow-rgb: var(--bd-violet-rgb);
         --bs-btn-active-color: var(--bs-btn-hover-color);
-        --bs-btn-active-bg: #5a23c8;
-        --bs-btn-active-border-color: #5a23c8;
+        --bs-btn-active-bg: #6e8e7b;
+        --bs-btn-active-border-color: #6e8e7b;
     }
 }
 
 .navbar {
     @extend .navbar-dark;
 
-    --bd-violet-rgb: 112.520718,44.062154,249.437846;
+    --bd-violet-rgb: 110, 142, 123;
     
     padding: .75rem 0;
     background-color: transparent;
