@@ -4,9 +4,9 @@ date: 2025-02-08T00:08:29-05:00
 draft: true
 ---
 
-## Current Features
+## Landing Page Features
 
-These are features that are currently implemented in SimpleSpend, and which feature on the landing page.
+These are 6 features of SimpleSpend displayed on the Landing page.
 
 ### Illustrated Features
 
