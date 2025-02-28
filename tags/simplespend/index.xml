@@ -1,20 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>SimpleSpend</title>
-    <link>https://joycecheen.github.io/hugo-mock-landing-page/tags/simplespend/</link>
-    <description>Recent content on SimpleSpend</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <copyright>Copyright © 2025, Joyce Chen.</copyright>
-    <lastBuildDate>Mon, 10 Feb 2025 02:27:19 -0500</lastBuildDate>
-    <atom:link href="https://joycecheen.github.io/hugo-mock-landing-page/tags/simplespend/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Introducing SimpleSpend: Smart Expense Tracking</title>
-      <link>https://joycecheen.github.io/hugo-mock-landing-page/post/bootstrap-5-2-0-beta/</link>
-      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://joycecheen.github.io/hugo-mock-landing-page/post/bootstrap-5-2-0-beta/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Take control of your finances with SimpleSpend! Designed for effortless budgeting and expense tracking, SimpleSpend helps you stay on top of your spending, analyze trends, and achieve financial goals with ease.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;why-simplespend&#34;&gt;Why SimpleSpend?&lt;/h2&gt;&#xA;&lt;p&gt;📌 Quick Expense Logging – Record your daily spending in just a few taps.&lt;/p&gt;&#xA;&lt;p&gt;🏷 Custom Categories &amp;amp; Tags – Organize expenses to suit your lifestyle.&lt;/p&gt;&#xA;&lt;p&gt;🚨 Smart Budget Alerts – Set spending limits and receive timely notifications.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>SimpleSpend</title><link>https://joycecheen.github.io/hugo-mock-landing-page-autodeployed/tags/simplespend/</link><description>Recent content on SimpleSpend</description><generator>Hugo</generator><language>en</language><copyright>Copyright © 2025, Joyce Chen.</copyright><lastBuildDate>Fri, 28 Feb 2025 08:33:12 +0000</lastBuildDate><atom:link href="https://joycecheen.github.io/hugo-mock-landing-page-autodeployed/tags/simplespend/index.xml" rel="self" type="application/rss+xml"/><item><title>Introducing SimpleSpend: Smart Expense Tracking</title><link>https://joycecheen.github.io/hugo-mock-landing-page-autodeployed/post/bootstrap-5-2-0-beta/</link><pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate><guid>https://joycecheen.github.io/hugo-mock-landing-page-autodeployed/post/bootstrap-5-2-0-beta/</guid><description>&lt;blockquote>
+&lt;p>Take control of your finances with SimpleSpend! Designed for effortless budgeting and expense tracking, SimpleSpend helps you stay on top of your spending, analyze trends, and achieve financial goals with ease.&lt;/p>&lt;/blockquote>
+&lt;h2 id="why-simplespend">Why SimpleSpend?&lt;/h2>
+&lt;p>📌 Quick Expense Logging – Record your daily spending in just a few taps.&lt;/p>
+&lt;p>🏷 Custom Categories &amp;amp; Tags – Organize expenses to suit your lifestyle.&lt;/p>
+&lt;p>🚨 Smart Budget Alerts – Set spending limits and receive timely notifications.&lt;/p></description></item></channel></rss>
