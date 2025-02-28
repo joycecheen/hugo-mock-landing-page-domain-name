@@ -8,6 +8,6 @@ menu:
 
 # Contact
 
-[Open an issue](https://github.com/joycecheen/hugo-mock-landing-page/issues/new) on GitHub.
+[Open an issue](https://github.com/joycecheen/hugo-mock-landing-page-autodeployed/issues/new) on GitHub.
 
 Or send a message to jzwchen@seas.upenn.edu !
